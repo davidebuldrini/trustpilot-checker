@@ -1,0 +1,1 @@
+This chrome extension takes you directly to the Trustpilot review page in a new tab with a single click. If you’re going to check a company’s reputation, you’ll likely end up reading the feedback anyway — so why not jump straight to the source?
